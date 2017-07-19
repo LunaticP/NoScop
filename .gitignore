@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Other
+.idea
+cmake-build-debug
+*.swp
+*.swo
+*.~
+*.dSYM
+
